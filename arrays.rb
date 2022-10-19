@@ -13,9 +13,9 @@ p grocery_items
 #If I just add .push the output is still the same 4 integers.  The push method adds to the end
 #of an array changing the length.  When I run the push method again addind integer 2 it adds
 # it to the end array giving it 5 elements. [4,1,2,3,2]
-quantity.push
-quantity.push(2)
-p quantity
+# quantity.push
+# quantity.push(2)
+# p quantity
 
 #This line of code call the shift method on the amount_cost variable that contains the floater
 #array.  The output is [3.25, 1.0, 2.5] It removes first element
@@ -36,3 +36,13 @@ p in_stock
 
 friends = ['amy', 'molly', 'jen']
 p friends[0]
+
+#This line of code call the reverse method on the quantity integer array. 
+#Output is [2,3,2,1,4,]  It reverses the order of the elements. It has the added 
+#(2) element from the previous push method called. 
+#If I command out the previous push method ran on this variable the output is [3,2,1,4] 
+#the reverse of the original element order.
+quantity.reverse!
+p quantity
+
+
