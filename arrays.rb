@@ -30,3 +30,9 @@ in_stock.unshift
 in_stock.unshift (true)
 p in_stock
 
+#Index position is a way to access an element by a number it corresponds with.  It begins
+#counting with 0.  When I run this in ruby the outcome for index position 0 is string element
+#'amy' String element 'molly' is in index position 1 and 'jen' is index position 2
+
+friends = ['amy', 'molly', 'jen']
+p friends[0]
