@@ -1,0 +1,4 @@
+- I feel semi-confident with arrays, I feel like I understand the array part, but have a hard
+time figuring out some of the methods.  Some seem to be rather straightforward and some don't
+- I would like to do some more exercised practicing array methods.
+- I was confused about some of the methods we learned and wondering why shift and unshift were not opposite of each other.  Maybe I wasn't quite understanding what they do or my code wasn't put in correct.  A run through of those 4 methods may be helpful to me. Also some methods you can call to the current array and others need to have an element included in the method?

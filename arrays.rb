@@ -41,7 +41,7 @@ p friends[0]
 #Output is [2,3,2,1,4,]  It reverses the order of the elements. It has the added 
 #(2) element from the previous push method called. 
 #If I command out the previous push method ran on this variable the output is [3,2,1,4] 
-#the reverse of the original element order.
+#the reverse of the original element order.ls
 quantity.reverse!
 p quantity
 
